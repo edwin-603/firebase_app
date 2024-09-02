@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739177863824",
+    "project_id": "nextzen-17f15",
+    "storage_bucket": "nextzen-17f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739177863824:android:a90f4ac2664849156f1615",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739177863824-1gkaviva2ul7tvefbbtld044pgf177u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_XKpINyZ4XiwXSeJvYBw_Ao2aqqCeLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739177863824-1gkaviva2ul7tvefbbtld044pgf177u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
