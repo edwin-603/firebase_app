@@ -1,10 +1,9 @@
+import 'package:firebase_app/presentation/home.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import 'Screen/home.dart';
-import 'Screen/login_screen.dart';
-import 'Screen/sign_up_screen.dart';
+import 'presentation/login_screen.dart';
+import 'presentation/sign_up_screen.dart';
 
 
 void main() async {

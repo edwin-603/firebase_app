@@ -10,7 +10,7 @@ class OTPScreen extends StatelessWidget {
 
   OTPScreen({required this.verificationId});
 
-  @override
+    @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Verify OTP")),
